@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-yermoshyn/"><img src="https://img.shields.io/badge/LinkedIn-Nikita%20Yermoshyn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://t.me/nikita_yermoshyn"><img src="https://img.shields.io/badge/Telegram-%40nikita__yermoshyn-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
-  <img src="https://img.shields.io/badge/location-Krak%C3%B3w%2C%20Poland-lightgrey" alt="Location">
+  <a href="https://t.me/nikita_yermoshyn"><img src="https://img.shields.io/badge/Telegram-%40nikita__yermoshyn-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.google.com/maps/place/Krak%C3%B3w,+Poland"><img src="https://img.shields.io/badge/location-Krak%C3%B3w%2C%20Poland-34A853?logo=googlemaps&logoColor=white" alt="Location"></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@ Across different projects I've touched a fairly wide range of tools — I haven'
 |---|---|---|
 | [**node-redis-trading-api**](https://github.com/nikita-yr/node-redis-trading-api) | A Redis-backed stock trading simulator with a live dashboard — buy/sell logic, portfolio tracking, and Redis snapshot/rollback ("time machine") for state management | Node.js, Express, Redis, Docker |
 | [**yr-offline-gps-maps**](https://github.com/nikita-yr/yr-offline-gps-maps) | Offline-first Android map app — no internet required for maps or GPS location | Kotlin, Android |
-| [**Steam-EcoSystem-Optimizer**](https://github.com/nikita-yr/Steam-EcoSystem-Optimizer) | A background watchdog that automatically switches Steam's UI to save ~700MB RAM while gaming, then restores it on exit | PowerShell |
+| [**Steam-EcoSystem-Optimizer**](https://github.com/nikita-yr/Steam-EcoSystem-Optimizer) | A background watchdog that automatically switches Steam's UI to save ~560MB RAM while gaming, then restores it on exit | PowerShell |
 | [**pong-redux**](https://github.com/nikita-yr/pong-redux) | A modern take on classic Pong with adaptive AI and realistic ball physics | Python |
 
 ### 📫 Get in touch
