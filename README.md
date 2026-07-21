@@ -15,7 +15,8 @@
 
 ### 🎓 Background
 
-- **B.Eng. (Engineer) in Computer Science and Econometrics** Andrzej Frycz Modrzewski Krakow University — Faculty of Management and Social Communication (2021–2025)
+- **B.Eng. (Engineer) in Computer Science and Econometrics**
+  Andrzej Frycz Modrzewski Krakow University — Faculty of Management and Social Communication (2021–2025)
 - Certificates: Cisco Networking Academy (Networking Basics, Operating Systems)
 - Languages: Ukrainian, Russian, Polish , English
 
