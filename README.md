@@ -25,15 +25,6 @@ Across different projects I've touched a fairly wide range of tools — I haven'
 
 `Kotlin` · `Python` · `Java` · `C++` · `Node.js` · `Express` · `Redis` · `Docker` · `PowerShell` · `SQL` · `Git` · `Android Studio`
 
-### 🚀 Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Steam-EcoSystem-Optimizer**](https://github.com/nikita-yr/Steam-EcoSystem-Optimizer) | A background watchdog that automatically switches Steam's UI to save ~800MB RAM while gaming, then restores it on exit | PowerShell |
-| [**node-redis-trading-api**](https://github.com/nikita-yr/node-redis-trading-api) | A Redis-backed stock trading simulator with a live dashboard — buy/sell logic, portfolio tracking, and Redis snapshot/rollback ("time machine") for state management | Node.js, Express, Redis, Docker |
-| [**yr-offline-gps-maps**](https://github.com/nikita-yr/yr-offline-gps-maps) | Offline-first Android map app — no internet required for maps or GPS location | Kotlin, Android |
-| [**pong-redux**](https://github.com/nikita-yr/pong-redux) | A modern take on classic Pong with adaptive AI and realistic ball physics | Python |
-
 ### 📫 Get in touch
 
 - LinkedIn: [nikita-yermoshyn](https://www.linkedin.com/in/nikita-yermoshyn/)
