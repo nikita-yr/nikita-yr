@@ -23,7 +23,7 @@
 
 Across different projects I've touched a fairly wide range of tools — I haven't locked into one stack yet, and that's intentional while I figure out what fits best:
 
-`Kotlin` · `Python` · `Java` · `C++` · `Node.js` · `Express` · `Redis` · `Docker` · `PowerShell` · `SQL` · `Git` · `Android Studio`
+`Kotlin` · `Python` · `Java` · `C++` · `C#` · `Node.js` · `Express` · `Redis` · `Docker` · `PowerShell` · `SQL` · `Git` · `Android Studio`
 
 ### 📫 Get in touch
 
